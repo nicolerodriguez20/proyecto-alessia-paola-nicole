@@ -1,0 +1,17 @@
+{
+  "aircraftModel": "Cessna 172",
+  "maxWeightKg": 1111,
+  "cgLimits": {
+    "forward": 35,
+    "aft": 47
+  },
+  "stations": [
+    { "name": "Pilot + Copilot", "arm": 37 },
+    { "name": "Passengers Rear", "arm": 73 },
+    { "name": "Baggage Area", "arm": 95 },
+    { "name": "Fuel Tanks", "arm": 48 }
+  ],
+  "fuel": {
+    "densityKgPerL": 0.72
+  }
+}
